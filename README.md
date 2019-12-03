@@ -2,6 +2,9 @@
 
 适用于act的标签模板灵砂时钟
 
+
+使用方式：新建伤害美化模板那里新建【标签】页，模板地址填 http://aethersand.nbb.ffxiv.cn/ 或者你自己部署的地址
+
 ## Project setup
 ```
 yarn install
